@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA222: Introduction to Partial Differential Equations"
+course_description: "An introduction to the analysis and solution of Partial Differential Equations, which describe the relationships among the derivatives of an unknown function with respect to different independent variables, such as time and position."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: The Fourier Transform** <span id="5"></span> 
 *The basic idea behind the Fourier transform is that the frequency
 information hidden in a waveform or function because of its

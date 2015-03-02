@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA222: Introduction to Partial Differential Equations"
+course_description: "An introduction to the analysis and solution of Partial Differential Equations, which describe the relationships among the derivatives of an unknown function with respect to different independent variables, such as time and position."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Solution Methods** <span id="4"></span> 
 *Dozens of methods have been developed to solve the most common PDEs
 over the past 300 years, and many tools have been developed to analyze

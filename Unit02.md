@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA222: Introduction to Partial Differential Equations"
+course_description: "An introduction to the analysis and solution of Partial Differential Equations, which describe the relationships among the derivatives of an unknown function with respect to different independent variables, such as time and position."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Classification of Linear PDEs** <span id="2"></span> 
 *There is an incredible amount of variety in the study of PDE problems,
 in part because of the incredible amount of variety in the physical

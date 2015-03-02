@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA222: Introduction to Partial Differential Equations"
+course_description: "An introduction to the analysis and solution of Partial Differential Equations, which describe the relationships among the derivatives of an unknown function with respect to different independent variables, such as time and position."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "MA222: Introduction to Partial Differential Equations"
 ---------------------------------------------------------------------------
 
