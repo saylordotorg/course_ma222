@@ -214,3 +214,11 @@ Final Exam.
 Online Math Notes*. He has some good material on PDEs and boundary value
 problems.
 ([Link](http://tutorial.math.lamar.edu/Classes/DE/IntroPDE.aspx))
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/ma222/Unit01/)
+- [Unit 2](https://legacy.saylor.org/ma222/Unit02/)
+- [Unit 3](https://legacy.saylor.org/ma222/Unit03/)
+- [Unit 4](https://legacy.saylor.org/ma222/Unit04/)
+- [Unit 5](https://legacy.saylor.org/ma222/Unit05/)
