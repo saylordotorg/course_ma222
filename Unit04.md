@@ -261,7 +261,7 @@ Upon successful completion of this unit, the student will be able to:
     and Penn State: Professor Kris Wysocki’s “Homework 1” (PDF) and
     “Homework 2” (PDF)**
     Links: MIT: Professor Matthew Hancock’s [“Problem Set
-    4](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet4.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet4.pdf)
+    4](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet4.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet4.pdf)
     (PDF) and Penn State: Professor Kris Wysocki’s [“Homework
     1](http://www.math.psu.edu/wysocki/M412/Math412.html)[”](http://www.math.psu.edu/wysocki/M412/Math412.html)
     (PDF) and [“Homework
@@ -274,7 +274,7 @@ Upon successful completion of this unit, the student will be able to:
     and complete problems 2 and 3. Finally, click on the last link
     above, select the “Homework 2” link, and complete problem 2. To
     check your solutions for the Hancock problems, click on
-    this [link](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet4sol.pdf).
+    this [link](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet4sol.pdf).
     To check your solutions for the Wysocki problems, follow the second
     and third links again, and click on the corresponding link for
     solutions to “Homework 1” and “Homework 2.”  
@@ -321,7 +321,7 @@ id="4.1.4"></span> 
     link above, select the “Homework 3” link to download the PDF file,
     and complete all of the problems. To check your solutions for the
     Hancock problems, click on
-    this [link](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet3sol.pdf).
+    this [link](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet3sol.pdf).
     To check your solutions for the Wysocki problems, follow the top
     link again and click on the corresponding link for solutions.  
         
@@ -397,9 +397,9 @@ id="4.2.1"></span> 
     “Problem Set 2” and Penn State: Professor Kris Wysocki’s “Homework
     4”**
     Links: MIT: Professor Matthew Hancock’s [“Problem Set
-    1](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet1.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet1.pdf)
+    1](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet1.pdf)
     (PDF) and [“Problem Set
-    2](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2.pdf)
+    2](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2.pdf)
     (PDF) and Penn State: Professor Kris Wysocki’s [“Homework
     4](http://www.math.psu.edu/wysocki/M412/Math412.html)[”](http://www.math.psu.edu/wysocki/M412/Math412.html)
     (PDF)  
@@ -411,9 +411,9 @@ id="4.2.1"></span> 
     the link to “Homework 4,” and complete problems 3 and 4. To check
     your solutions for the Hancock problems, click on these links,
     [Problem Set
-    1](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet1sol.pdf)
+    1](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet1sol.pdf)
     and [Problem Set
-    2](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2sol.pdf).
+    2](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2sol.pdf).
     To check your solutions for the Wysocki problems, follow the third
     link again and click on the corresponding link for solutions to
     “Homework 4.”  
@@ -453,7 +453,7 @@ id="4.2.2"></span> 
     State: Professor Kris Wysocki’s “Homework 6,” and Trinity College,
     Dublin: Professor Sarah McMurry’s “Problem Sheet 7”**
     Links: MIT: Professor Matthew Hancock’s [“Problem Set
-    3](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet3.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet3.pdf)
+    3](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet3.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet3.pdf)
     (PDF), State: Professor Kris Wysocki’s [“Homework
     6](http://www.math.psu.edu/wysocki/M412/Math412.html)[”](http://www.math.psu.edu/wysocki/M412/Math412.html)
     (PDF), and Trinity College, Dublin: Professor Sarah McMurry’s
@@ -468,7 +468,7 @@ id="4.2.2"></span> 
     down to the “Problem Sheets” section, select the link to “Problem
     Sheet 7,” and complete problems 1 and 3. To check your solutions for
     the Hancock problems, click on
-    this [link](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet3sol.pdf).
+    this [link](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet3sol.pdf).
     To check your solutions for the Wysocki and the McMurry problems,
     follow the links above again and click on the corresponding link for
     solutions to “Homework 6” and “Problem Sheet 7.”  
@@ -647,13 +647,13 @@ id="4.3.1"></span> 
 
 -   **Assessment: MIT: Professor Steven Johnson’s “Problem Set 5”**
     Link: MIT: Professor Steven Johnson’s [“Problem Set
-    5](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet5.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet5.pdf)
+    5](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet5.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet5.pdf)
     (PDF)  
         
      Instructions: Click on the link above to access the PDF file, and
     complete problem 3 of “Problem Set 5.” To check your solutions,
     follow this
-    [link](http://www.saylor.org/site/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet5sol.pdf).  
+    [link](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet5sol.pdf).  
         
      You should dedicate approximately 15-20 minutes to completing this
     assessment.  
