@@ -132,7 +132,7 @@ particularly important.*
     Link: MIT: Gigliola Staffilani’s *Introduction to Partial
     Differential Equations*: [“Lecture 1: Introduction and Basic Facts
     about
-    PDEs”](http://www.saylor.org/site/wp-content/uploads/2013/05/Lecture-1-Introduction-and-Basic-Facts-about-PDEs.pdf) (PDF)  
+    PDEs”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Lecture-1-Introduction-and-Basic-Facts-about-PDEs.pdf) (PDF)  
         
      Instructions: Click on the link above. The lecture notes will open
     in PDF form (6 pages).   
