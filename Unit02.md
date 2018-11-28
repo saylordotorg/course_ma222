@@ -144,18 +144,18 @@ Upon successful completion of this unit, the student will be able to: 
 -   **Assessment: MIT: Professor Matthew Hancock’s “Problem Set 2” and
     MIT: Professor Steven Johnson’s “Problem Set 1”**
     Links: MIT: Professor Matthew Hancock’s [“Problem Set
-    2](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2.pdf)
+    2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2.pdf)
     (PDF) and MIT: Professor Steven Johnson’s [“Problem Set
-    1](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet1.pdf)
+    1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet1.pdf)
     (PDF)  
         
      Instructions: Click on the first link above, and complete problems
     2 and 3 of “Problem Set 2.” Then, click on the second link above,
     and complete problem 1 of “Problem Set 1.” To check your solutions,
     follow this
-    [link](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2sol.pdf)
+    [link](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2sol.pdf)
     for the Hancock problems, and this
-    [link](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet1sol.pdf)
+    [link](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet1sol.pdf)
     for the Johnson problems.   
         
      You should dedicate approximately 1 hour to completing this
@@ -314,7 +314,7 @@ id="2.2.3"></span> 
     second link above, select the hyperlink to “Homework 4” to download
     the PDF, and complete problem 5. To check your solutions for the
     Hancock problems, click on this
-    [link](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2sol.pdf).
+    [link](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet2sol.pdf).
     To check your solutions for the Wysocki problems, follow the top
     link again and click on the corresponding link for solutions.  
         
