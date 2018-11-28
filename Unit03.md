@@ -126,13 +126,13 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: MIT: Professor Steven Johnson’s “Problem Set 2”**
     Link: MIT: Professor Steven Johnson’s [“Problem Set
-    2](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet2.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet2.pdf)
+    2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet2.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet2.pdf)
     (PDF)  
         
      Instructions: Click on the link above to access the PDF file, and
     complete problem 2 from “Problem Set 2.” To check your solutions,
     follow this
-    [link](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet2sol.pdf).  
+    [link](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_Steven-Johnson_ProblemSet2sol.pdf).  
         
      You should dedicate approximately 30 minutes to completing this
     assessment.  
@@ -330,7 +330,7 @@ id="3.2.1"></span> 
     Trinity College, Dublin: Professor Sarah McMurry’s “Problem Sheet
     2”**
     Link: MIT: Professor Matthew Hancock’s [“Problem Set
-    1](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet1.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet1.pdf)
+    1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet1.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/MIT_MatthewHancock_ProblemSet1.pdf)
     (PDF) and Trinity College, Dublin: Professor Sarah McMurry’s
     [“Problem Sheet
     2](http://www.maths.tcd.ie/~saram/2S2/index.html)[”](http://www.maths.tcd.ie/~saram/2S2/index.html)
